@@ -20,15 +20,11 @@ body {
 }*/
 
 .logo{
-	width: 100%; 
-	max-width:250px;
+	width: 50%; 
 	margin: 0 auto;
-	border-radius: 50%;
 }
 
-.center-image{
-	background-color: pink;
-}
+
 
 .nav{
 	background: #e16879;
@@ -44,4 +40,8 @@ body {
 
 .card-title{ 
 	color: #e16879;
+}
+
+.card {
+	    background-color: transparent;
 }
