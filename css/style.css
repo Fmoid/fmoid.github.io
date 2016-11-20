@@ -1,0 +1,14 @@
+body {
+	background-image: url('https://s-media-cache-ak0.pinimg.com/236x/0e/56/25/0e56251c99885acd70d151a30dbf0417.jpg');
+}
+
+/*
+.main {
+	background-color: pink;
+}*/
+
+.logo{
+	width: 100%; 
+	max-width:250px;
+	margin: 0 auto;
+}
